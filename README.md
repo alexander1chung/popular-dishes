@@ -1,3 +1,5 @@
+A popular dishes module that shows reviews, dish prices, and photos.
+
 # popular-dishes
 repo for the popular dishes component
 
